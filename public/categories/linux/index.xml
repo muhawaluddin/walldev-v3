@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Walldev | All About Wall</title>
+    <link>https://allaboutwall.netlify.app/categories/linux/</link>
+    <description>Recent content in Linux on Walldev | All About Wall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Mar 2022 18:10:25 +0600</lastBuildDate><atom:link href="https://allaboutwall.netlify.app/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panduan Install Moodle di Mac</title>
+      <link>https://allaboutwall.netlify.app/blog/post-5/</link>
+      <pubDate>Fri, 11 Mar 2022 18:10:25 +0600</pubDate>
+      
+      <guid>https://allaboutwall.netlify.app/blog/post-5/</guid>
+      <description>Panduan Install Moodle di Mac</description>
+    </item>
+    
+    <item>
+      <title>Aplikasi Timer Productivity di Linux - Aplikasi Manajemen Waktu</title>
+      <link>https://allaboutwall.netlify.app/blog/post-4/</link>
+      <pubDate>Sat, 29 Jan 2022 18:13:25 +0600</pubDate>
+      
+      <guid>https://allaboutwall.netlify.app/blog/post-4/</guid>
+      <description>Productivity Timer adalah perangkat lunak manajemen waktu sumber terbuka dan gratis untuk Windows, MacOS, dan Linux. Dengan menggunakan aplikasi ini, Anda dapat mengatur waktu secara efektif dan membuat mata Anda rileks.</description>
+    </item>
+    
+  </channel>
+</rss>

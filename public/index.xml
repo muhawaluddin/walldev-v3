@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walldev | All About Wall</title>
+    <link>https://allaboutwall.netlify.app/</link>
+    <description>Recent content on Walldev | All About Wall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Mar 2022 18:10:25 +0600</lastBuildDate><atom:link href="https://allaboutwall.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panduan Install Moodle di Mac</title>
+      <link>https://allaboutwall.netlify.app/blog/post-5/</link>
+      <pubDate>Fri, 11 Mar 2022 18:10:25 +0600</pubDate>
+      
+      <guid>https://allaboutwall.netlify.app/blog/post-5/</guid>
+      <description>Panduan Install Moodle di Mac</description>
+    </item>
+    
+    <item>
+      <title>Aplikasi Timer Productivity di Linux - Aplikasi Manajemen Waktu</title>
+      <link>https://allaboutwall.netlify.app/blog/post-4/</link>
+      <pubDate>Sat, 29 Jan 2022 18:13:25 +0600</pubDate>
+      
+      <guid>https://allaboutwall.netlify.app/blog/post-4/</guid>
+      <description>Productivity Timer adalah perangkat lunak manajemen waktu sumber terbuka dan gratis untuk Windows, MacOS, dan Linux. Dengan menggunakan aplikasi ini, Anda dapat mengatur waktu secara efektif dan membuat mata Anda rileks.</description>
+    </item>
+    
+    <item>
+      <title>Konfigurasi Safe Exam Browser</title>
+      <link>https://allaboutwall.netlify.app/blog/post-3/</link>
+      <pubDate>Thu, 27 Jan 2022 18:13:25 +0600</pubDate>
+      
+      <guid>https://allaboutwall.netlify.app/blog/post-3/</guid>
+      <description>Konfigurasi Safe Exam Browser, bisa dilakukan secara manual atau menggunakan file config yang dikirimkan oleh pelaksana ujian. Jika menggunakan file config (Ujian.</description>
+    </item>
+    
+    <item>
+      <title>Install Safe Exam Browser</title>
+      <link>https://allaboutwall.netlify.app/blog/post-2/</link>
+      <pubDate>Tue, 25 Jan 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://allaboutwall.netlify.app/blog/post-2/</guid>
+      <description>Safe Exam Browser, adalah media untuk melaksanakan ujian online dengan tampilan fullscreen. Selain , itu penggunaan Safe Exam Browser diperuntukkan mengurangi kecurangaan saat ujian online berlangsung, seperti membatasi mahasiswa agar tidak melakukan screen capture atau screen shoot soal ujian.</description>
+    </item>
+    
+    <item>
+      <title>Install Hugo di Linux</title>
+      <link>https://allaboutwall.netlify.app/blog/post-1/</link>
+      <pubDate>Mon, 24 Jan 2022 18:19:25 +0600</pubDate>
+      
+      <guid>https://allaboutwall.netlify.app/blog/post-1/</guid>
+      <description>Step 1. Install Hugo Install Hugo menggunakan brew.
+brew install hugo # or port install hugo Verifikasi Hugo version.
+hugo version Step 2.</description>
+    </item>
+    
+    <item>
+      <title>About The Author</title>
+      <link>https://allaboutwall.netlify.app/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://allaboutwall.netlify.app/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s, Talk About You</title>
+      <link>https://allaboutwall.netlify.app/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://allaboutwall.netlify.app/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
