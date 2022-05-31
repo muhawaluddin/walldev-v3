@@ -50,7 +50,7 @@ title_large = "Welcome **!**"
 title_small = "All About Wall"
 image = "images/banner2.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "a Product Manager and Content Creator at Walldev. Currently active in artificial intelligence research."
+content = "Semua tentang Wall, catatan sederhana, dokumentasi dan gaya hidup minimalis"
 button_label = "Know About Me"
 button_link = "about/"
 
