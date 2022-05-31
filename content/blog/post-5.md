@@ -16,4 +16,5 @@ Adapun settingan Safe Exam Browser pada MacOS dapat dilakukan dengan langkah-lan
 2. Buka aplikasi Safe Exam Browser
 3. Pilih menu **Preferences**
 4. Ubah **Start URL**, (sesuaikan dengan URL ujian yang ingin kalian akses, misal : https://exam.med.unhas.ac.id)
-5. 
+5. Kemudian simpan (Cmd + S), restart SEB, pilih Apply.
+6. Buka kembali aplikasi Safe Exam Browser.
