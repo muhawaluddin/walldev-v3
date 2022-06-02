@@ -6490,7 +6490,7 @@ html {
   font-size: 16px; }
 
 body {
-  font-family: "SF Pro Text", sans-serif;
+  font-family: "Mulish", sans-serif;
   font-weight: 400;
   line-height: 1.75;
   color: #555; }
@@ -6509,7 +6509,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "SF Pro Text", sans-serif;
+  font-family: "Mulish", sans-serif;
   font-weight: 700;
   color: #222; }
 
@@ -6598,7 +6598,7 @@ h1,
 /* Button style */
 .btn {
   font-size: 1rem;
-  font-family: "SF Pro Text", sans-serif;
+  font-family: "Mulish", sans-serif;
   text-transform: capitalize;
   padding: .8em 2em;
   border-radius: 0;
@@ -6814,7 +6814,7 @@ select {
     line-height: 1;
     padding: 0;
     color: #555;
-    font-family: "SF Pro Text", sans-serif; }
+    font-family: "Mulish", sans-serif; }
     .form-group label small, .form-group label .small {
       margin-left: .2em;
       color: #2ba283; }
@@ -6822,7 +6822,7 @@ select {
     border: 0;
     border-radius: 0;
     background-color: transparent;
-    font-family: "SF Pro Text", sans-serif;
+    font-family: "Mulish", sans-serif;
     font-weight: 400;
     border-bottom: 1px solid #E1E1E1;
     color: #555;
@@ -6884,7 +6884,7 @@ select {
   color: #FFF !important; }
 
 .font-primary {
-  font-family: "SF Pro Text", sans-serif !important; }
+  font-family: "Mulish", sans-serif !important; }
 
 .zindex-1 {
   z-index: 1; }
@@ -6945,7 +6945,7 @@ select {
       .content blockquote {
         padding: 30px 50px; } }
     .content blockquote p {
-      font-family: "SF Pro Text", sans-serif;
+      font-family: "Mulish", sans-serif;
       font-size: 24px;
       color: #222;
       line-height: 32px;
@@ -7017,7 +7017,7 @@ select {
   .header .navbar-nav .nav-link {
     color: #222;
     text-transform: capitalize;
-    font-family: "SF Pro Text", sans-serif;
+    font-family: "Mulish", sans-serif;
     font-size: .9rem;
     font-weight: 400;
     color: #000;
@@ -7066,7 +7066,7 @@ select {
     .header .dropdown-menu .dropdown-item {
       text-transform: capitalize;
       transition: .3s;
-      font-family: "SF Pro Text", sans-serif; }
+      font-family: "Mulish", sans-serif; }
       .header .dropdown-menu .dropdown-item.active, .header .dropdown-menu .dropdown-item:active, .header .dropdown-menu .dropdown-item:hover {
         color: #2ba283;
         background-color: rgba(43, 162, 131, 0.15); }
@@ -7185,7 +7185,7 @@ select {
 .drop-cap > p:first-child:first-letter {
   font-size: 3rem;
   font-weight: 700;
-  font-family: "SF Pro Text", sans-serif;
+  font-family: "Mulish", sans-serif;
   float: left;
   padding-right: 15px;
   line-height: 1.1; }
@@ -7196,7 +7196,7 @@ select {
 .card-meta li {
   font-size: 12px;
   font-weight: 400;
-  font-family: "SF Pro Text", sans-serif;
+  font-family: "Mulish", sans-serif;
   color: #555;
   position: relative; }
   .card-meta li:not(:last-child) {
